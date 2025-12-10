@@ -1,2 +1,2 @@
 # AppVersions
-Mobile App Versions (Lightweight Repo) (Encrypted)
+Alpi's Mobile App Versions (Lightweight Repo) (Encrypted)
